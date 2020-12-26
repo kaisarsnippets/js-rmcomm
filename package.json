@@ -1,6 +1,6 @@
 {
   "name": "kc-rmcomm",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "[js] Remove comments.",
   "main": "index.js",
   "repository": {
