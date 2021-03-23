@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KaisarCode/js-rmcomm.git"
+    "url": "https://github.com/kaisarsnippets/js-rmcomm.git"
   },
   "keywords": [
     "remove",
@@ -14,9 +14,9 @@
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-rmcomm/issues"
+    "url": "https://github.com/kaisarsnippets/js-rmcomm/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-rmcomm",
+  "homepage": "https://github.com/kaisarsnippets/js-rmcomm",
   "dependencies": {
     "fun2mod": "^1.0.5"
   }
